@@ -1,0 +1,20 @@
+---
+
+RTR1:
+   username: cisco
+   password: cisco
+   hostname: 172.16.20.210
+   groups:
+        - cisco_group
+RTR2:
+   username: cisco
+   password: cisco
+   hostname: 172.16.20.211
+   groups:
+        - cisco_group
+RT31:
+   username: cisco
+   password: cisco
+   hostname: 172.16.20.212
+   groups:
+        - cisco_group
